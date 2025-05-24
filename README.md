@@ -40,7 +40,7 @@
   <li>Java Varargs - Simple Addition</li>
   <li>Java Reflection - Attributes</li>
   <li>Java Factory Pattern</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Java Instanceof keyword</li>
+  <li>Java Iterator</li>
+  <li>Java Exception Handling (Try-catch)</li>
 </ol>
