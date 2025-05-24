@@ -36,4 +36,11 @@
   <li>Java Interface</li>
   <li>Java Method Overriding</li>
   <li>Java Method Overriding 2 (Super Keyword)</li>
+  <li>Java Exception Handling</li>
+  <li>Java Varargs - Simple Addition</li>
+  <li>Java Reflection - Attributes</li>
+  <li>Java Factory Pattern</li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
